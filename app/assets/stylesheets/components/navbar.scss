@@ -1,0 +1,37 @@
+.navbar {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 15px;
+}
+
+.navbar-title {
+  font-size: 18px;
+  color: #777;
+  text-decoration: none;
+}
+
+.navbar-title:hover {
+  color: #5e5e5e;
+}
+
+.navbar-new-article {
+  font-size: 14px;
+  color: #777;
+  text-decoration: none;
+}
+
+.navbar-new-article:hover {
+  color: #5e5e5e;
+}
+
+
+
+
